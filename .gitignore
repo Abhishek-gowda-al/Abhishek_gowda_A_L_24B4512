@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Data you may cache locally (not needed in the repo)
+*.csv
+*.parquet
